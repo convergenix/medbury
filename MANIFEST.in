@@ -1,0 +1,18 @@
+include MANIFEST.in
+include requirements.txt
+include *.json
+include *.md
+include *.py
+include *.txt
+recursive-include medbury *.css
+recursive-include medbury *.csv
+recursive-include medbury *.html
+recursive-include medbury *.ico
+recursive-include medbury *.js
+recursive-include medbury *.json
+recursive-include medbury *.md
+recursive-include medbury *.png
+recursive-include medbury *.py
+recursive-include medbury *.svg
+recursive-include medbury *.txt
+recursive-exclude medbury *.pyc
