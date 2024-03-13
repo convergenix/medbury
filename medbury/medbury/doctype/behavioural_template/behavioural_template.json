@@ -1,0 +1,31 @@
+{
+ "actions": [],
+ "allow_rename": 1,
+ "creation": "2024-03-12 09:22:51.891445",
+ "doctype": "DocType",
+ "editable_grid": 1,
+ "engine": "InnoDB",
+ "field_order": [
+  "behavioural_criteria"
+ ],
+ "fields": [
+  {
+   "fieldname": "behavioural_criteria",
+   "fieldtype": "Small Text",
+   "in_list_view": 1,
+   "label": "Behavioural Criteria",
+   "reqd": 1
+  }
+ ],
+ "index_web_pages_for_search": 1,
+ "istable": 1,
+ "links": [],
+ "modified": "2024-03-12 09:22:51.891445",
+ "modified_by": "Administrator",
+ "module": "Medbury",
+ "name": "Behavioural Template",
+ "owner": "Administrator",
+ "permissions": [],
+ "sort_field": "modified",
+ "sort_order": "DESC"
+}
